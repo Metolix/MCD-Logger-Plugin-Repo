@@ -4,14 +4,14 @@
 MCDLogger is an advanced Minecraft-to-Discord logger.
 
 ## How to use
-To use this plugin, Download the JAR file [here](https://github.com/Metolix/MCDLogger/blob/main/MCDLogger.jar). Place the JAR file into the `plugins` folder.
+To use this plugin, Download the JAR file [here](https://github.com/Metolix/MCD-Logger-Plugin-Repo/blob/main/MCDLogger.jar). Place the JAR file into the `plugins` folder.
 
 Now you may run the server, If you get an error do not worry, It is normal.
 
 Now after the server is up and running stop the server.
 
 Go back into the `plugins` folder and open the `MCDLogger` folder. There you will see a config.yml file looking something like this:
-![config.yml Image](https://github.com/Metolix/MCDLogger/blob/main/image.png)
+![config.yml Image](https://github.com/Metolix/MCD-Logger-Plugin-Repo/blob/main/image.png)
 
 Now, edit the webhook URL's for each of them. You can find a tutorial on how to make a discord webhook on youtube too.
 
