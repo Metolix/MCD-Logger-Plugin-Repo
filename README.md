@@ -18,16 +18,16 @@ Now, edit the webhook URL's for each of them. You can find a tutorial on how to 
 You can now change if you want some fields or not by using true or false to enable or disable a module respectively.
 
 ## Current Loggers
-Any fields marked with `*` are to be enabled from the `logs` module*
+*Any fields marked with `*` are to be enabled from the `logs` module*
 
 - Server Startup
 - Server Shutdown
 - Player Join
 - Player Leave
 - Player Chat
-- Player Death
-- Player Kick
-- Command Issued
+- Player Death*
+- Player Kick*
+- Command Issued*
 
 ### Note
 
